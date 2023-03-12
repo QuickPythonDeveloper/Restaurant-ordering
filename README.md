@@ -55,7 +55,7 @@ Windows
 .\Scripts\activate
 ```
 
-### Install reequirements.txt
+### Install requirements.txt
 
 ```bash
 python -m pip install -r requirements.txt
@@ -87,46 +87,46 @@ python manage.py runserver 8888
 
 ## 01
 
-![image](screen shots/Screen Shot 1401-12-19 at 19.49.53.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 19.49.53.png)
 ---
 
 ## 02
 
-![image](screen shots/Screen Shot 1401-12-19 at 21.06.51.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 21.06.51.png)
 ---
 
 ## 03
 
-![image](screen shots/Screen Shot 1401-12-19 at 21.07.53.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 21.07.53.png)
 ---
 
 ## 04
 
-![image](screen shots/Screen Shot 1401-12-19 at 21.59.10.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 21.59.10.png)
 ---
 
 ## 05
 
-![image](screen shots/Screen Shot 1401-12-19 at 23.06.27.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 23.06.27.png)
 ---
 
 ## 06
 
-![image](screen shots/Screen Shot 1401-12-19 at 23.19.06.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 23.19.06.png)
 ---
 
 ## 07
 
-![image](screen shots/Screen Shot 1401-12-19 at 23.20.52.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 23.20.52.png)
 ---
 
 ## 08
 
-![image](screen shots/Screen Shot 1401-12-19 at 23.23.28.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 23.23.28.png)
 ---
 
 ## 09
 
-![image](screen shots/Screen Shot 1401-12-19 at 23.23.55.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 23.23.55.png)
 ---
 
