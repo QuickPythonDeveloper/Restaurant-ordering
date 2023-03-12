@@ -87,22 +87,22 @@ python manage.py runserver 8888
 
 ## 01
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 19.49.53.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2019.49.53.png)
 ---
 
 ## 02
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 21.06.51.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.06.51.png)
 ---
 
 ## 03
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 21.07.53.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.07.53.png)
 ---
 
 ## 04
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/tree/main/screen%20shots/Screen Shot 1401-12-19 at 21.59.10.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.59.10.png)
 ---
 
 ## 05
