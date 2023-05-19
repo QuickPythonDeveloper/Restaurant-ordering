@@ -2,8 +2,9 @@ import re
 import string
 import random
 from random import randint
-
 from django.utils.text import slugify
+
+from src.accounts.models import Account
 
 
 def get_stars(s):
@@ -21,6 +22,14 @@ def get_stars(s):
         for i in range(len(ar), 5, 1):
             ar.append('fa-star-o')
     return ar
+
+
+def get_random_code(size=4):
+    numerics = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+    random_str = ""
+    for _ in range(size):
+        random_str += numerics[randint(0, 9)]
+    return random_str
 
 
 def get_review_status(score: float):
@@ -114,3 +123,19 @@ def unique_slug_generator(instance, new_slug=None):
         )
         return unique_slug_generator(instance, new_slug=new_slug)
     return slug
+
+
+def get_username(name):
+    numerics = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '_']
+    username = name.split(' ')[0].lower()
+    # checking username exists or not, if exist create one
+    qs = Account.objects.filter(username=username)
+    if qs.exists():
+        random_str = numerics[randint(0, 10)] + numerics[randint(0, 10)]
+        username += random_str
+        return get_username(username)
+    return username
+
+
+def phone_already_exist(phone):
+    return Account.objects.filter(phone=phone).exists()
