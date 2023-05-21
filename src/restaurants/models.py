@@ -1,6 +1,7 @@
 from django.db import models
 from django.shortcuts import reverse
 from django.db.models.signals import pre_save, post_save
+
 from src.general.functions import *
 from src.foods.models import Food
 

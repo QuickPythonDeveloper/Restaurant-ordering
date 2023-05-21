@@ -1,4 +1,5 @@
 from django.shortcuts import render
+
 from src.restaurants.models import Restaurant
 
 

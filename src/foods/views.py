@@ -1,6 +1,6 @@
 from django.shortcuts import render, get_object_or_404
-from django.http import HttpResponse
-from .models import Food, FoodCategory
+
+from .models import Food
 from src.restaurants.models import Restaurant
 
 

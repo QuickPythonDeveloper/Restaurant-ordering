@@ -1,4 +1,5 @@
-from django.shortcuts import render, get_object_or_404, HttpResponseRedirect
+from django.shortcuts import render, HttpResponseRedirect
+
 from .models import Restaurant, ServiceTime, RestaurantReview
 
 
@@ -19,7 +20,7 @@ def restaurant_list(request):
 def restaurant_detail(request, slug):
     try:
         restaurant = Restaurant.objects.get(slug=slug)
-    except:
+    except Restaurant.DoesNotExist:
         return HttpResponseRedirect("/404notfound/")
     service_times = ServiceTime.objects.get(restaurant=restaurant)
     review = RestaurantReview.objects.all().filter(restaurant=restaurant)

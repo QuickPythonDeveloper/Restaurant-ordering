@@ -1,7 +1,6 @@
 from django.db import models
-from django.db.models.signals import pre_save, post_save
-from src.general.functions import (unique_order_id_generator,
-                                   unique_slug_generator,
+from django.db.models.signals import pre_save
+from src.general.functions import (unique_slug_generator,
                                    unique_key_generator)
 from django.shortcuts import reverse
 

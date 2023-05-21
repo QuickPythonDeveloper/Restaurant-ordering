@@ -22,9 +22,7 @@ from src.general.functions import (
 )
 from src.foods.models import Food
 from src.restaurants.models import Restaurant
-from informations.models import City
-from reviews.models import Review
-from orders.models import Order
+from src.orders.models import Order
 
 
 @login_required
