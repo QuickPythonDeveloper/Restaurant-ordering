@@ -10,12 +10,12 @@ def index_view(request):
         requested_data = int(request.POST['dataNo'])
         partner_restaurants = Restaurant.objects.all().filter(is_active=True).filter(is_orderable=True)[
                               requested_data:(requested_data + 5)]
-        return render(request, 'more_restaurant.html', {'partner_restaurants': partner_restaurants})
+        return render(request, 'more_restaurant.html', {'partnerrestaurants': partner_restaurants})
 
     partner_restaurants = Restaurant.objects.all().filter(is_active=True).filter(is_orderable=True)[:5] or None
     template_name = 'base.html'
     contex = {
-        'partner_restaurants': partner_restaurants
+        'partnerrestaurants': partner_restaurants
     }
     return render(request, template_name, contex)
 
