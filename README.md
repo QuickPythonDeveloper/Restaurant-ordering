@@ -87,37 +87,37 @@ python manage.py runserver 8888
 
 ## 01
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2019.49.53.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.06.51.png)
 ---
 
 ## 02
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.06.51.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.07.53.png)
 ---
 
 ## 03
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.07.53.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.59.10.png)
 ---
 
 ## 04
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2021.59.10.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.06.27.png)
 ---
 
 ## 05
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.06.27.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.19.06.png)
 ---
 
 ## 06
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.19.06.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.20.52.png)
 ---
 
 ## 07
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.20.52.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.23.28.png)
 ---
 
 ## 08
@@ -127,6 +127,6 @@ python manage.py runserver 8888
 
 ## 09
 
-![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/main/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.23.55.png)
+![image](https://github.com/QuickPythonDeveloper/Restaurant-ordering/blob/master/screen%20shots/Screen%20Shot%201401-12-19%20at%2023.23.55.png)
 ---
 
